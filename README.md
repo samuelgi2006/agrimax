@@ -5,7 +5,7 @@ empresa de agropecuaria
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AgroVida - Soluciones Agrícolas</title>
+    <title>Agromax - Soluciones Agrícolas</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
         header { background: #4CAF50; color: white; padding: 20px; }
