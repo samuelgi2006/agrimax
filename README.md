@@ -2,23 +2,9 @@
 empresa de agropecuaria
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agromax - Soluciones Agrícolas</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
-        header { background: #4CAF50; color: white; padding: 20px; }
-        section { padding: 20px; }
-        .contenedor { display: flex; justify-content: center; flex-wrap: wrap; }
-        .servicio { margin: 20px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; width: 300px; }
-        .galeria img { width: 200px; margin: 10px; border-radius: 10px; }
-        .boton { display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; margin-top: 20px; }
-    </style>
-</head>
 <body>
     <header>
-        <h1>AgroVida</h1>
+        <h1>Agrimax</h1>
         <p>Cultivando calidad, cosechando confianza</p>
     </header>
     <section>
