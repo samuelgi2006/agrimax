@@ -17,13 +17,13 @@ empresa de agropecuaria
 <body>
     <header>
         <h1>Tu Tienda Online en Minutos</h1>
-        <p>Ofrecemos soluciones de comercio electrónico personalizadas</p>
+        <p>Ofrecemos products para agricultural</p>
     </header>
     <section>
         <h2>Nuestros Servicios</h2>
         <div class="servicio">
-            <h3>Diseño de Tiendas</h3>
-            <p>Creación de tiendas online con diseños atractivos y funcionales.</p>
+            <h3>encuntras todo lo queue buscas</h3>
+            <p>venta de productos agricultores con diseños atractivos y funcionales.</p>
         </div>
         <div class="servicio">
             <h3>Integración de Pagos</h3>
@@ -31,24 +31,5 @@ empresa de agropecuaria
         </div>
         <div class="servicio">
             <h3>Optimización SEO</h3>
-            <p>Aseguramos que tu tienda aparezca en Google.</p>
-        </div>
-    </section>
-    <section>
-        <h2>Testimonios</h2>
-        <div class="testimonio">
-            <p>"Gracias a esta empresa, ahora tengo mi tienda online y vendo más que nunca!"</p>
-            <strong>- Juan Pérez</strong>
-        </div>
-        <div class="testimonio">
-            <p>"Un servicio rápido y eficiente. ¡Muy recomendado!"</p>
-            <strong>- María López</strong>
-        </div>
-    </section>
-    <section>
-        <h2>Contacto</h2>
-        <p>Escríbenos para crear tu tienda online.</p>
-        <a href="https://wa.me/tunumerodewhatsapp" class="boton">Contáctanos</a>
-    </section>
-</body>
-</html>
+            
+        
